@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Java, XML Quiz</string>
+
+    <string name="name_field">Enter your name before you begin the quiz...</string>
+
+    <string name="question1">1. Which of the following is true about XML?</string>
+    <string name="question1_radio1">XML is a markup language</string>
+    <string name="question1_radio2">XML is a tag based language like HTML</string>
+    <string name="question1_radio3">XML tags are not predefined like HTML</string>
+    <string name="question1_radio4">All of the above.</string>
+
+    <string name="question2">2. What is XML Parsing?</string>
+    <string name="question2_radio1">Parsing XML refers to going through XML document to access data or to modify data in one or other way</string>
+    <string name="question2_radio2">Parsing XML refers to creation of XML document</string>
+    <string name="question2_radio3">Both of the above</string>
+    <string name="question2_radio4">None of the above</string>
+
+    <string name="question3">3. How will you describe Java?</string>
+    <string name="question3_radio1">Programming language</string>
+    <string name="question3_radio2">Platform</string>
+    <string name="question3_radio3">Both programming language and platform</string>
+    <string name="question3_radio4">Abstract Machine</string>
+
+    <string name="question4">4. Java is structured programming language</string>
+    <string name="question4_radio1">True</string>
+    <string name="question4_radio2">False</string>
+
+    <string name="question5">5. Which of the following are legal identifiers in Java?</string>
+    <string name="question5_check1">1abc</string>
+    <string name="question5_check2">abc_1</string>
+    <string name="question5_check3">oneAbc</string>
+    <string name="question5_check4">final</string>
+    <string name="question5_check5">$while</string>
+
+    <string name="question6">6. For the following code snippet, what will the OUTPUT look like?\n
+        \t\tint x = 30;\n
+      \t\tif( x &lt; 20 ) {\n
+         \t\t\t\tSystem.out.print("This is if statement");\n
+      \t\t}else {\n
+         \t\t\t\tSystem.out.print("This is else statement");\n
+      \t\t}</string>
+
+    <string name="button_text">Submit</string>
+
+    <string name="toast_correct">Congratulations! %1$s, you got all questions right.</string>
+    <string name="toast_wrong">%1$s you got to try again! you didn\'t get any question right.</string>
+    <string name="toast_score">%1$s, you got %2$d out of %3$d questions right.</string>
+
+</resources>
